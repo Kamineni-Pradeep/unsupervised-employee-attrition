@@ -163,19 +163,3 @@ python employee_attrition_analysis.py
 | Visualisation | Matplotlib, Seaborn |
 
 ---
-
-## 👤 Author
-
-**Pradeep Kamineni**
-MSc Artificial Intelligence — Brunel University London
-B.Tech AI & Data Science — Lakireddy Bali Reddy College of Engineering (CGPA: 8.57)
-
-📧 pradeepkamineni74@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/pradeep-kamineni-72792b24a)
-🐙 [GitHub](https://github.com/Kamineni-Pradeep)
-
----
-
-## 📄 Licence
-
-This project is licensed under the MIT Licence.
